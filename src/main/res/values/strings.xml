@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather Now</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_title">That\'s Embarrassing!</string>
+    <string name="error_message">There was an error! Please try again.</string>
+    <string name="error_ok_button_text">OK</string>
+    <string name="network_unavailable_message">Network is Unavailable, please make sure that WIFI
+        or data is enabled and connected.</string>
+    <string name="network_error_title">No Network Connection</string>
+    <string name="title_activity_daily_forecast">DailyForecastActivity</string>
+    <string name="no_weather_data_to_display">There is no daily weather to display...</string>
+</resources>
